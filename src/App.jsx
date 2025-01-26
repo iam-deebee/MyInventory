@@ -8,7 +8,14 @@ function MyButton() {
     <button>
       hey this is changed in local
       yes it iss
+<<<<<<< HEAD
       hvjnkml
+=======
+      <button>
+      hey this is changed in local
+      yes it iss
+    </button>
+>>>>>>> 8f48619c8cb5f7e1e6c1a9280226f7a7cb5ab580
     </button>
   );
 }
