@@ -20,5 +20,5 @@ export default function MyApp() {
       <h1>New heading3 added in Local</h1>
       <MyButton />
     </div>
-    
+  )
 }
