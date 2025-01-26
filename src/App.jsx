@@ -6,11 +6,7 @@ import './App.css'
 function MyButton() {
   return (
     <button>
-<<<<<<< HEAD
-      I'm a button dinesh db
-=======
       I'm a new button which is modified by gitorsomeone else
->>>>>>> 750e069ca1ded4ba6401e5f75fc6fbb35ea98fb2
     </button>
   );
 }
