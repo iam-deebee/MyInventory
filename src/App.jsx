@@ -15,7 +15,8 @@ export default function MyApp() {
   return (
     <div>
       <h1>Welcome to my app</h1>
+      <h1>New heading added in Local</h1>
       <MyButton />
     </div>
-  );
+    
 }
