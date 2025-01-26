@@ -8,6 +8,9 @@ function MyButton() {
     <button>
       I'm a button dinesh dbb
     </button>
+       <button>
+      I'm second button
+    </button>
   );
 }
 
