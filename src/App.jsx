@@ -7,9 +7,7 @@ function MyButton() {
   return (
     <button>
       hey this is changed in local
-    </button>
-     <button>
-      hey thisis a new button added!!
+      yes it iss
     </button>
   );
 }
